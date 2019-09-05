@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inaugural meetup
+title: Inaugural meetup - 11.09.2019
 subtitle: Getting started with Graph API and PowerShell
 tags: [meetup]
 comments: false
