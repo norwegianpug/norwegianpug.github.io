@@ -32,10 +32,9 @@ layout: base
       {% endif %}
 
       <article role="main" class="blog-post">
-        <p class="byline">
-          by {{ author.display_name }}
-        </p> <!-- /.byline -->
         {{ content }}
+        {% assign author = site.authors[page.author] %}
+        {% include author.html %}
       </article>
 
       {% if page.tags.size > 0 %}
