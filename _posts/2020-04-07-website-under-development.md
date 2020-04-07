@@ -13,6 +13,4 @@ Luckily, this site is set up exactly like my own blog (which I also never update
 
 Make sure to follow us on [twitter](https://twitter.com/norwegianpug) to keep up with day to day business. If you would like to hold a webinar or know anyone that's perfect for the tasks ship us a DM, an [electronic letter](mailto:post@npug.no) or tap the wires.
 
-#hacktheplanet,
-
-[-Roberth](https://twitter.com/roberthtweets)
+#hacktheplanet
