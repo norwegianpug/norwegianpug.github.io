@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 authors:
   NPUG:
     name: Norwegian Powershell User Group
-  Roberth:
+  roberth:
     author_name: "Roberth Strand"
     author_bio: "Cloud consultant working primarily with Microsoft Azure, automation and infrastructure."
     author_url:  "https://robstr.dev"
