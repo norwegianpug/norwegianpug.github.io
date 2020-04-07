@@ -1,24 +1,12 @@
-# --- General options --- #
-
-# Name of website
 title: Norwegian Powershell User Group
 
-# Short description of your site
 description: A virtual proof that I'm awesome
 
-# --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
-# url is the the website domain URL without a trailing slash
 url: "https://npug.no"
 
 # baseurl should be an empty string
 baseurl: ""
 
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
 navbar-links:
   About: "about"
 #  Resources:
@@ -48,17 +36,6 @@ footer-col: "#cce6ff"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
-# Alternatively, the navbar, footer, and page background can be set to use background images
-# instead of colour
-
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
-
-# --- Footer options --- #
-
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
 authors:
   NPUG:
     name: Norwegian Powershell User Group
@@ -70,39 +47,19 @@ authors:
     twitter: https://twitter.com/roberthtweets
     github: https://github.com/RoberthStrand/
 
-# Select your active Social Network Links.
-# Uncomment the links you want to show in the footer and add your information to each link.
-# You can reorder the items to define the link order.
-# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+
 social-network-links:
   meetup: Norwegian-PowerShell-User-Group
   github: norwegianpug
   twitter: norwegianpug
   facebook: norwegianpug
   rss: true
-#  email: "someone@example.com"  
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
-# Select which share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
 
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "npug.no"  # eg. "deanattali.com/beautiful-jekyll"
-
+url-pretty: "npug.no"  
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
