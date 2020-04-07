@@ -790,3 +790,24 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+div#author-content {
+  width:90%;
+  margin:0 auto;
+  padding-bottom: 35px;
+}
+
+img#image-author {
+  margin-left: 0px;
+  margin-top: 10px;
+  float: left;
+}
+
+#social-author {
+  float:right;    
+
+}
+
+#im-ab {
+  padding-bottom: 2px;
+}
