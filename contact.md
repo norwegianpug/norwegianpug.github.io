@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speakers
+title: Contact us
 #subtitle: We're always open for suggestions
 ---
 We are always looking for more speakers to help us by holding webinars on topics around PowerShell. Be it automation, development or just to show off cool projects created with PowerShell. We are also planning several meetups in Oslo, so if you are located or plan to be in Oslo feel free to reach out to us. 
