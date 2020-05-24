@@ -13,5 +13,6 @@ We're also available on [meetup.com](https://www.meetup.com/Norwegian-PowerShell
 | :-----|:---:|:---:|
 | Roberth Strand | [@roberthtweets ](https://twitter.com/roberthtweets) | me (at) robstr.dev |
 | Alexander Holmeset | [@alexholmeset](https://twitter.com/alexholmeset) | - |
+| Max Lærum | [@Tr4pSec](https://twitter.com/Tr4pSec) | - |
 | Tor-Inge Larsen | [@ti83](https://twitter.com/ti83) | - |
 | Tor Magnus Rakvåg | [@tmautomates](https://twitter.com/TMAutomates) | - |
